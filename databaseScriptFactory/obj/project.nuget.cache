@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "brWyy5lgwfT+J185VWnnTTbQ/ZXQB0gXmmTx2OVyJ6FwLNGawTFWWijRDNVC1t5njxWfh4IfauL02EQ0Z+bn8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoãoVictorTeixeira\\source\\repos\\databaseScriptFactory\\databaseScriptFactory\\databaseScriptFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoãoVictorTeixeira\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\JoãoVictorTeixeira\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
